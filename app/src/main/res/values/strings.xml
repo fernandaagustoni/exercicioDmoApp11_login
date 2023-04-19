@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="hint_username">Nome de usuário</string>
+    <string name="hint_password">Senha numérica</string>
+    <string name="hint_password_confirmation">Confirme a senha</string>
+
+    <string name="check_remember_login">Lembrar informações de login</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_login_description">Botão de login</string>
+    <string name="btn_save_user">Salva Usuário</string>
+
+    <string name="error_user_not_found">Usuário informado não possui cadastro.</string>
+    <string name="error_invalid_input">Dados inválidos informados.</string>
+    <string name="error_duplicated_user">Dados já cadastrado no sistema.</string>
+    <string name="insert_sucess">Novo usuário cadastrado com sucesso.</string>
+    <string name="text_change_color">Alterar cor de fundo</string>
+</resources>
